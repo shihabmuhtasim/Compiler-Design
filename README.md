@@ -9,9 +9,9 @@ Welcome to the **Compiler Design Lab Repository**, where you can find comprehens
   - [Lab 1: Lexical Analyzer](#lab-1-lexical-analyzer)
   - [Lab 2: Syntax Analyzer](#lab-2-syntax-analyzer)
   - [Lab 3: Symbol Table](#lab-3-symbol-table)
-- [Getting Started](#getting-started)
 
-![DALL·E 2024-11-07 01 30 06 - A dark-themed, sleek, and modern cover image representing the concept of compiler design  The image includes abstract representations of code structur](https://github.com/user-attachments/assets/8ee32868-b555-468a-af94-3ca1c97e849e)
+
+
 
 
 
@@ -39,9 +39,4 @@ The **Symbol Table** lab focuses on managing identifiers and their scope, provid
 - Scope management
 - Type checking and symbol information storage
 
-## Getting Started
-
-To get started with these labs:
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/compiler-design-lab.git
+![DALL·E 2024-11-07 01 30 06 - A dark-themed, sleek, and modern cover image representing the concept of compiler design  The image includes abstract representations of code structur](https://github.com/user-attachments/assets/8ee32868-b555-468a-af94-3ca1c97e849e)
